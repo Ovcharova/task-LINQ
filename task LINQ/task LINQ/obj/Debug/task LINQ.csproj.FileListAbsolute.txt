@@ -1,0 +1,5 @@
+c:\users\ольга\documents\visual studio 2015\Projects\task LINQ\task LINQ\bin\Debug\task LINQ.exe.config
+c:\users\ольга\documents\visual studio 2015\Projects\task LINQ\task LINQ\bin\Debug\task LINQ.exe
+c:\users\ольга\documents\visual studio 2015\Projects\task LINQ\task LINQ\bin\Debug\task LINQ.pdb
+c:\users\ольга\documents\visual studio 2015\Projects\task LINQ\task LINQ\obj\Debug\task LINQ.exe
+c:\users\ольга\documents\visual studio 2015\Projects\task LINQ\task LINQ\obj\Debug\task LINQ.pdb
